@@ -32,5 +32,3 @@ def is_valid(password):
             return False
     else:
         return False
-
-test
